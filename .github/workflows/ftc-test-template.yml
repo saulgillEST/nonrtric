@@ -63,7 +63,7 @@ jobs:
         python3 -m pip install requests pyyaml
 
     - name: Set up Docker
-      uses: docker/setup-buildx-action@v3
+      uses: docker/setup-buildx-action@v4
 
     - name: Install Docker Compose v2
       run: |
