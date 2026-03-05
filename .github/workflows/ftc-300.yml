@@ -12,6 +12,7 @@ on:
           - '../common/test_env-oran-m-release.sh'
           - '../common/test_env-oran-l-release.sh'
           - '../common/test_env-oran-k-release.sh'
+          - '../common/test_env-onap-quebec.sh'
           - '../common/test_env-onap-paris.sh'
           - '../common/test_env-onap-oslo.sh'
           - '../common/test_env-onap-montreal.sh'
